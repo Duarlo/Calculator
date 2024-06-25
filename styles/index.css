@@ -3,12 +3,13 @@ body{
 }
 
 .container-calculator{
-    display: flex;
+    /*display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     align-content: center;
+    */
 }
 .brand-calculator{
     margin: 0 auto;
